@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Daniel Gomez
-description: Bookmark this to keep an eye on my updates!
 description: >- # this means to ignore newlines until "baseurl:"
   Academic at RMIT University undertaking teaching and resaerch in new materials for energy applications 
+github_username: danielgom3z
+minimal_mistakes_skin: dark
+search: true
