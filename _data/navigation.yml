@@ -1,8 +1,8 @@
 main:
   - title: "Posts"
     url: /_posts/
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
   - title: "Plasmonics"
     url: /plasmonics/
   - title: "Quantum Batteries"
