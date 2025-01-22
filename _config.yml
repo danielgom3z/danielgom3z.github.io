@@ -2,9 +2,11 @@ theme: jekyll-theme-minimal
 title: Polaritonics Lab
 description: page under construction
 
+#build settings
 # remote_theme: pages-themes/midnight@v0.2.0
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
+markdown: kramdown
 
 name: "Polaritonics Lab"
 
@@ -45,6 +47,7 @@ defaults:
       comments: true
       share: true
       related: true
+  
   # _pages
   - scope:
       path: "_pages"
