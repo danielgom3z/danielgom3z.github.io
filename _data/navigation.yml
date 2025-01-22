@@ -1,12 +1,15 @@
 main:
   - title: "Posts"
-    url: /posts/
+    url: /_posts/
   - title: "Research"
     url: /research/
+  -title: "Plasmonics"
+    url: /plasmonics/
+  -title: "Quantum Batteries"
+    url: /quantum_battery/  
   - title: "Team"
     url: /people/
   - title: "Publications"
     url: /publications/ 
   - title: "Contact"
     url: /contact/
-  
