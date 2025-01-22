@@ -1,4 +1,12 @@
-Papers under review, available on pre-print archives
+---
+permalink: /publications/
+title: "Publications"
+---
+
+Jump to:&nbsp;&nbsp;&nbsp;&nbsp;[Refereed Journal Articles](#refereed-journal-articles)&nbsp;&nbsp;&nbsp;&nbsp;[Book chapters](#book-chapters)&nbsp;&nbsp;&nbsp;&nbsp;[Other Research Outputs](#other-research-outputs)
+
+
+## Papers under review, available on pre-print archives
 
 D. J. Tibben, E. D. Gaspera, J. van Embden, P. Reineck, J. Q. Quach, F. Campaioli, and D. E. Gómez “Extending the self-discharge time of Dicke quantum batteries using molecular triplets” arXiv (2024) 
 [http://dx.doi.org/10.48550/arXiv.2404.00198]
@@ -9,7 +17,7 @@ M. Wilms, L. V. Melendez, O. Kendall, E. Della Gaspera, J. van Embden, T. U. Con
 O. Kendall, L. Melendez, M. N. Guven Bicer, M. Wilms, J. van Embden, D. E. Gómez, A. Calzolari, D. Prezzi, and E. Della Gaspera “Tungsten Oxide Nanocrystals Doped with Interstitial Methylammonium Cations” ChemRxiv (2024) 
 [http://dx.doi.org/10.26434/chemrxiv-2024-nwdvf]
 
-Peer-reviewed journal articles
+## Peer-reviewed journal articles
 
 L. V. Melendez, C. K. Nguyen, M. Wilms, N. Syed, T. Daeneke, N. W. Duffy, A. Fery, E. Della Gaspera, and D. E. Gómez “Probing the Interaction between Individual Metal Nanocrystals and Two-Dimensional Metal Oxides via Electron Energy Loss Spectroscopy” Nano Letters 24, 1944-1950 (2024) 
 [http://dx.doi.org/10.1021/acs.nanolett.3c04225 ]
@@ -316,7 +324,7 @@ G. Ramachandran, T. A. Smith, D. Gómez, and K. Ghiggino “Fluorescence studies
 I. Pastoriza-Santos, D. Gómez, J. Perez-Juste, L. M. Liz-Marzan, and P. Mulvaney “Optical properties of metal nanoparticle coated silica spheres: a simple effective medium approach” Phys. Chem. Chem. Phys. 6, 5056 - 5060 (2004) 
 [http://dx.doi.org/10.1039/b405157b ]
 
-Book Chapter 
+## Book Chapter 
 
 E. V. Ludeña, V. Karasiev, A. Artemyev, and D. Gómez “Functional N-representability in density matrix and density functional theory. An illustration for Hooke's atom.” 209 - 230 (2000) 
 [http://dx.doi.org/10.1007/978-1-4615-4211-7_10 ]
