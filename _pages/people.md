@@ -12,14 +12,15 @@ Peter Dunkley
 
 Adrian Bota
 
-
 ## Alumni
 
-Gus Bonin
+Gus Bonin, PhD
+*Strong Light-Matter Coupling With Plasmonic Nanostructures*
+<iframe src="https://widgets.figshare.com/articles/25815748/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
-Lesly Melendez
+Lesly Melendez, PhD
 
-Michael Wilms
+Michael Wilms, PhD
 
-Daniel Tibben
+Daniel Tibben, PhD
 
