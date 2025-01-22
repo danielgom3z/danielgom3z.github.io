@@ -3,9 +3,8 @@ layout: home
 classes:
   - landing
   - dark-theme
-header:
+sidebar:
   image: /assets/images/Fig2.png
-
 ---
 
 ## Polaritonics Lab
