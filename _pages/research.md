@@ -9,7 +9,7 @@ title: "Research"
 
 ## Plasmonics
 
-[![Nanostructures](/assets/images/7.tif =250x)]
+[![Nanostructures](/assets/images/7.tif)]
 
 Plasmonics is a growing field in science & technology that is devoted to the study and applications of a wide variety fo phenomena that originates from the unusual optical properties of nano-sized metals.
 While  "bulk" metals like silver and gold have shiny reflective surfaces, suspensions of tiny particles made with these chemical elements have very different optical properties.
