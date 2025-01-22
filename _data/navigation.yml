@@ -3,9 +3,9 @@ main:
     url: /_posts/
   - title: "Research"
     url: /research/
-  -title: "Plasmonics"
+  - title: "Plasmonics"
     url: /plasmonics/
-  -title: "Quantum Batteries"
+  - title: "Quantum Batteries"
     url: /quantum_battery/  
   - title: "Team"
     url: /people/
