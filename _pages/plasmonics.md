@@ -1,8 +1,9 @@
 ---
 permalink: /plasmonics/
 title: "Plasmonics"
-header:
-  image: /assets/images/7.tif
+sidebar:
+  - title: "Plasmonics"
+    image: /assets/images/7.tif
 ---
 
 Plasmonics is a growing field in science & technology that is devoted to the study and applications of a wide variety fo phenomena that originates from the unusual optical properties of nano-sized metals.
