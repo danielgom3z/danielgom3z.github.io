@@ -1,5 +1,11 @@
 ---
-layout: default
+layout: splash
+classes:
+  - landing
+  - dark-theme
+header:
+  image: /assets/images/Fig2.png
+
 ---
 
 ## Polaritonics Lab

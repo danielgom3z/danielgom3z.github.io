@@ -28,7 +28,10 @@ include:
   - _pages
 
 author:
-  name: "Daniel Gomez"  
+  name: "Daniel Gomez"
+  avatar: "/assets/images/yo.jpg"
+  bio: "Polaritonics, Plasmonics, Nano-Science"
+  location: "RMIT University"  
   links: 
      - label: "ORCiD"
        icon: "fab fa-fw fa-orcid"
