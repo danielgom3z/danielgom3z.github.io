@@ -15,4 +15,4 @@ A Polariton is an excited state that is an admixture between an electromagnetic 
 
 Our research aims to devise new ways for creating and manipulating Polaritons for applications in energy conversion (renewables), sensing and optics.
 
-We work on Plasmonics, hot carriers and Strong Coupling effects, using theoretical models, nano-fabrication & spectroscopy.
+We work on [Plasmonics](/_pages/plasmonics.md), and [Quantum Batteries](/_pages/quantum_battery.md).

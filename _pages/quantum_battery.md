@@ -1,6 +1,9 @@
 ---
 permalink: /quantum_battery/
 title: "Quantum Batteries"
+sidebar:
+  - title: "Quantum Batteries"
+    image: /assets/images/QB_design_triplet.png
 ---
 
 There is an ever-growing demand for energy storage technologies that offer high storage capacity and fast
