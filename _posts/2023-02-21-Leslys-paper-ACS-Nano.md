@@ -1,4 +1,4 @@
-Lesly's paper has been publsiehed in ACS Nano!
+Lesly's paper has been published in [ACS Nano](https://pubs.acs.org/doi/10.1021/acsnano.2c10892)!
 
 ![paper TOC](https://pubs.acs.org/cms/10.1021/acsnano.2c10892/asset/images/medium/nn2c10892_0005.gif)
 
