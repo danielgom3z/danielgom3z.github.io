@@ -1,5 +1,7 @@
+---
 permalink: /quantum_battery/
 title: "Quantum Batteries"
+---
 
 There is an ever-growing demand for energy storage technologies that offer high storage capacity and fast
 charging. While it is now clear that quantum technologies can significantly enhance computing power,
