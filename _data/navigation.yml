@@ -1,7 +1,10 @@
 main:
  # - title: "Posts"
  #   url: /posts
+  - title: "Team"
+    url: /people/
   - title: "Publications"
     url: /publications/ 
-  -title: "Team"
-    url: /people/
+  - title: "Contact"
+    url: /contact/
+  
