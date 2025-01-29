@@ -1,0 +1,3 @@
+Our collaborative work with CSIRO towards developing a **Quantum Battery** has just been made available on [arXiv](https://arxiv.org/abs/2501.16541).
+
+In this work we experimentally demonstrate a scalable room-temperature quantum battery with a multi-layered organic-microcavity design. We show that it exhibits superextensive charging, metastabilisation of stored energy, and generates superextensive electrical power, the latter an unpredicted phenomenon
