@@ -50,7 +50,6 @@ footer:
        icon: "fab fa-linkedin-in"
        url: "https://www.linkedin.com/in/daniel-gomez-292983245/"
 
-
 defaults:
   # _posts
   - scope:
