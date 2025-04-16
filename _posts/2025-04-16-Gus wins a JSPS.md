@@ -1,0 +1,1 @@
+Our former PhD student ![Gus Bonin] (https://www.linkedin.com/in/gus-bonin-086890144/) has won a Japan Society for the Promotion of Science Fellowships  
