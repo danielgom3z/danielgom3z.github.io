@@ -12,11 +12,11 @@ communications, and sensing capabilities, there is growing interest in applying 
 effects to revolutionise energy harvesting and storage.
 
 We aim to develop a **photo-rechargeable quantum battery**: a device that relies on quantum
-mechanical effects termed super-absorption reversible
-and super-radiance for achieving ultrafast
+mechanical effects (termed super-absorption reversible
+and super-radiance) for achieving ultrafast
 charging and discharging of an energy storage
-device. These unparalleled speeds could be
-advantageous in several applications such as fast EV charging stations. 
+device. High speed charging could be
+advantageous in several applications such as in fast EV charging stations. 
 
 However, to date a quantum
 battery remains as a thought experiment. 
