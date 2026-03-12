@@ -30,6 +30,8 @@ title: "Team"
     <iframe src="https://widgets.figshare.com/articles/25609908/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 - [Daniel Tibben, PhD](https://www.linkedin.com/in/danieltibben/)
+    - *Cavity Excitons: Applications in Quantum Energy and Sensing*
+    <iframe src="https://widgets.figshare.com/articles/31471057/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
 
 ## Collaborators
 
