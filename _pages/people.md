@@ -8,10 +8,13 @@ title: "Team"
 
 [Peter Dunkley](https://www.linkedin.com/in/peter-dunkley-321b33212/)
 
-## MSc trainees
+## Honours year student
 
-Adrian Bota
+[Ella Cross](https://www.linkedin.com/in/ella-cross-448038245/)
 
+## Visiting Student
+
+[Justus Lenke](https://www.linkedin.com/in/justus-lenke-51ab99251/), Hamburg University
 ## Alumni
 
 - [Gus Bonin, PhD](https://www.linkedin.com/in/gus-bonin-086890144/)
