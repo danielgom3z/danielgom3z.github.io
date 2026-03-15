@@ -15,6 +15,15 @@ O. Kendall, L. Melendez, M. N. Guven Bicer, M. Wilms, J. van Embden, D. E. Góme
 <http://dx.doi.org/10.26434/chemrxiv-2024-nwdvf>
 
 ## Peer-reviewed journal articles
+K. Hymas, J. B. Muir, D. Tibben, J. van Embden, T. Hirai, C. J. Dunn, D. E. Gómez, J. A. Hutchison, T. A. Smith, and J. Q. Quach “Superextensive electrical power from a quantum battery” Light: Science \& Applications 15, 168 (2026) 
+<http://dx.doi.org/10.1038/s41377-026-02240-6>
+
+T. Intizar, T. Nguyen, K. Arunraj, P. Sherrell, J. van Embden, D. E. Gómez, and E. della Gaspera “Aqueous Synthesis of Efficient Zinc Ferrite Thin Film Photoelectrodes for Water Oxidation” Advanced Sustainable Systems 10, e70388 (2026) 
+<http://dx.doi.org/https://doi.org/10.1002/adsu.70388>
+
+D. J. Tibben, R. Styles, D. A. Broadway, J.-P. Tetienne, D. E. Gómez, and P. Reineck “A Scalable Method for Cavity-Enhanced Solid-State Quantum Sensors” Advanced Science n/a, e17593 (2026) 
+<http://dx.doi.org/https://doi.org/10.1002/advs.202517593>
+
 
 D. J. Tibben, E. Della Gaspera, J. van Embden, P. Reineck, J. Q. Quach, F. Campaioli, and D. E. G\'omez “Extending the Self-Discharge Time of Dicke Quantum Batteries Using Molecular Triplets” PRX Energy 4, 023012 (2025) 
 <http://dx.doi.org/10.1103/bhyh-53np>
