@@ -15,6 +15,7 @@ O. Kendall, L. Melendez, M. N. Guven Bicer, M. Wilms, J. van Embden, D. E. Góme
 <http://dx.doi.org/10.26434/chemrxiv-2024-nwdvf>
 
 ## Peer-reviewed journal articles
+
 K. Hymas, J. B. Muir, D. Tibben, J. van Embden, T. Hirai, C. J. Dunn, D. E. Gómez, J. A. Hutchison, T. A. Smith, and J. Q. Quach “Superextensive electrical power from a quantum battery” Light: Science \& Applications 15, 168 (2026) 
 <http://dx.doi.org/10.1038/s41377-026-02240-6>
 
@@ -24,9 +25,11 @@ T. Intizar, T. Nguyen, K. Arunraj, P. Sherrell, J. van Embden, D. E. Gómez, and
 D. J. Tibben, R. Styles, D. A. Broadway, J.-P. Tetienne, D. E. Gómez, and P. Reineck “A Scalable Method for Cavity-Enhanced Solid-State Quantum Sensors” Advanced Science n/a, e17593 (2026) 
 <http://dx.doi.org/https://doi.org/10.1002/advs.202517593>
 
-
-D. J. Tibben, E. Della Gaspera, J. van Embden, P. Reineck, J. Q. Quach, F. Campaioli, and D. E. G\'omez “Extending the Self-Discharge Time of Dicke Quantum Batteries Using Molecular Triplets” PRX Energy 4, 023012 (2025) 
+D. J. Tibben, E. Della Gaspera, J. van Embden, P. Reineck, J. Q. Quach, F. Campaioli, and D. E. Gómez “Extending the Self-Discharge Time of Dicke Quantum Batteries Using Molecular Triplets” PRX Energy 4, 023012 (2025) 
 <http://dx.doi.org/10.1103/bhyh-53np>
+
+K. Arunraj, M. Wilms, O. Kendall, M. Perrin, T. T. H. Nguyen, X. Li, P. C. Sherrell, J. van Embden, D. E. Gómez, R. Yew, N. Duffy, and E. Della Gaspera “Copper tungstate photoanodes with enhanced solar water splitting performance” J. Mater. Chem. A 13, 24959-24970 (2025) 
+<http://dx.doi.org/10.1039/D5TA02576A>
 
 T. T. H. Nguyen, J. Ren, B. J. Murdoch, J. Lipton-Duffin, J. M. Macleod, D. E. Gómez, J. van Embden, and E. Della Gaspera “Doping and Annealing Conditions Strongly Influence the Water Oxidation Performance of Hematite Photoanodes” ACS Applied Materials \& Interfaces 17, 32635--32645 (2025) 
 <http://dx.doi.org/10.1021/acsami.5c05059>
